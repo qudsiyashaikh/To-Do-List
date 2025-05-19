@@ -4,7 +4,12 @@ This is a simple and interactive **To-Do List** web application built using **HT
 and **Vanilla JavaScript**. It allows users
 to add, delete, and manage daily tasks with a user-friendly interface.
 ## Demo
-![Screenshot 2025-05-16 143143](https://github.com/user-attachments/assets/c9a50dbf-4d1e-45da-9870-cc8f8403892b)
+![Screenshot 2025-05-19 092703](https://github.com/user-attachments/assets/b24733b5-d922-430b-84d1-1c87df92b66e)
+
+
+
+
+
 ## Features
 
 - Add new tasks
